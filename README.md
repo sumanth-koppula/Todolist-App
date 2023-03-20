@@ -5,6 +5,6 @@
 ### Installation Options
 
 ```
-git clone https://github.com/sumanth-koppula/TodoList.git
+git clone https://github.com/sumanth-koppula/Todolist-App.git
 ```
 <hr />
