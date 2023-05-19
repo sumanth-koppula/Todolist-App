@@ -51,7 +51,7 @@ function update() {
     remList = taskList.filter((ele) => {
         return !ele.complete
     })
-    document.getElementById("r-count").innerText = taskList.length.toString();
+    document.getElementById("t-count").innerText = taskList.length.toString();
     document.getElementById("c-count").innerText = completedList.length.toString();
 
 }
